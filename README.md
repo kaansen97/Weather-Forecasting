@@ -20,6 +20,7 @@ The accuracy of the model was evaluated and compared using the test data.
 
 All these tasks were performed using the two provided Google Colab notebooks:
 
+
 - Prepare_data.ipynb
 - Data_analytics_Training_.ipynb
 
